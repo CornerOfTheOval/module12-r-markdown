@@ -1,0 +1,19 @@
+
+---
+title: "American Psycho"
+author: "Zane Webb"
+date: "2/2/2017"
+output: html_document
+---
+
+```{r}
+source("exercise.R")
+source("apiKeys.R")
+
+
+param <- "american psycho"
+
+getMovieInfo("inception")
+
+
+``` 
